@@ -3,8 +3,11 @@
 ## Overview
 
 
-
-
+### Communication Protocols 
+- Private Slack Channel
+- Google Slides
+- Group Meetings on Tuesdays and Thursdays for progress checks
+- Github Projects
 
 
 
