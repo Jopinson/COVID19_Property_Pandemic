@@ -23,7 +23,9 @@ To save trained models (h5 files) and checkpoints, if saved.
 - <u>modeling</u> : notebooks modeling 
 <br>
 <br>
+
 ### Reports: Contains analysis reports and resources
+
 
 - <u>images</u> : for images of graphs and figures to create reports.
 - <u> references </u>: for documents and links used as references for reports.
