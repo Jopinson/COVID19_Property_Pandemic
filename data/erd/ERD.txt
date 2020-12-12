@@ -1,0 +1,79 @@
+## The data tables for holding raw data for housing prices
+## from 2018 to 2020 and COVID data from 2020.
+## Also contains the table to hold cities within 
+## a State and County.
+
+
+County_City as cc
+-
+City PK String
+State String
+County String
+
+House_Prices_2018 as hp18
+-
+State PK string fk - cc.State
+Metro_Region PK string fk - cc.City
+County PK string fk - cc.County
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+House_Prices_2019 as hp19
+-
+State PK string fk - cc.State
+Metro_Region PK string fk - cc.City
+County PK string fk - cc.County
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+House_Prices_2020 as hp20
+-
+State PK string fk - cc.State
+Metro_Region PK string fk - cc.City
+County PK string fk - cc.County
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+
+
+COVID_2020
+-
+State PK string fk - cc.State
+County PK string fk - cc.County
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct

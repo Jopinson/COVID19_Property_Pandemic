@@ -1,0 +1,12 @@
+1. COVID Data
+   a. Data contains numbers by county
+   b. we have data by
+
+2. HousePrice Data
+   a. The kaggle data dod
+   a. We have data from Quandl for few zip codes
+
+
+
+Challenges:
+1. Finding the right dataset was difficult. we had to scoure different sites to get 
