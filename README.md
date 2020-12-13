@@ -1,7 +1,7 @@
 # COVID19_Property_Pandemic
 
 ## Overview
-We are attempting to create a machine learning model that can predict housing prices. Using [this dataset from Zillow](https://www.zillow.com/research/data/) we are also going to attempt to compare our pricing model with Covid-19 data to see how much it has affected the housing market. 
+We are attempting to create a machine learning model that can predict housing prices. Using [this dataset from Zillow](https://www.zillow.com/research/data/) we are also going to attempt to compare our pricing model with Covid-19 data to see how much it has affected the housing market. We will be using a wide range of programming and data visualization tools including but not limited to Javascript, postgres SQL, Python, and Tableau.
 
 
 ### Communication Protocols 
