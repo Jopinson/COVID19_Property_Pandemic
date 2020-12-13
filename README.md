@@ -1,13 +1,15 @@
 # COVID19_Property_Pandemic
 
 ## Overview
+We are attempting to create a machine learning model that can predict housing prices. Using [this data from Zillow](https://www.zillow.com/research/data/)
 
 
 ### Communication Protocols 
 - Private Slack Channel
 - Google Slides
-- Group Meetings on Tuesdays and Thursdays for progress checks
+- Group Meetings on Tuesdays, Thursdays, and Sundays for progress checks
 - Github Projects
+- Github Issues
 
 
 
