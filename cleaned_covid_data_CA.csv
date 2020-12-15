@@ -1,0 +1,61 @@
+Province_State,County,Combined_Key,01/31/2020,02/28/2020,03/31/2020,04/30/2020,05/31/2020,06/30/2020,07/31/2020,08/31/2020,09/30/2020,10/31/2020
+California,Alameda,"Alameda, California, US",0,2224,29743,106570,0,131197,196693,139067,96050,90920
+California,Alpine,"Alpine, California, US",0,0,48,110,0,2,0,0,39,866
+California,Amador,"Amador, California, US",0,19,179,488,0,1269,4934,1969,1100,3044
+California,Butte,"Butte, California, US",0,42,424,1285,1055,12954,27578,34724,14918,11922
+California,Calaveras,"Calaveras, California, US",0,48,273,735,0,1705,2960,3433,1512,1758
+California,Colusa,"Colusa, California, US",0,4,80,199,44,4994,7044,2550,1986,1662
+California,Contra Costa,"Contra Costa, California, US",0,1734,18072,55634,0,103413,172782,123332,94720,82308
+California,Del Norte,"Del Norte, California, US",0,0,60,532,843,677,1189,650,1258,2031
+California,El Dorado,"El Dorado, California, US",0,70,991,3069,0,8187,13355,6176,7887,13596
+California,Fresno,"Fresno, California, US",0,290,8238,43862,36912,205446,326605,194416,110591,107479
+California,Glenn,"Glenn, California, US",0,4,106,395,775,5058,6148,3370,3908,3854
+California,Humboldt,"Humboldt, California, US",9,118,1463,3905,0,2214,4123,4154,3037,4021
+California,Imperial,"Imperial, California, US",0,181,4373,31193,88879,129139,58554,29042,44378,45398
+California,Inyo,"Inyo, California, US",0,35,447,1074,0,460,2684,1693,1026,1359
+California,Kern,"Kern, California, US",0,362,15270,62013,25000,186991,503707,132648,103752,82986
+California,Kings,"Kings, California, US",0,9,776,13403,40803,45017,63109,50409,37902,36660
+California,Lake,"Lake, California, US",0,0,122,468,482,3052,4080,4912,6921,3942
+California,Lassen,"Lassen, California, US",0,0,0,36,1328,11690,8105,725,1552,11828
+California,Los Angeles,"Los Angeles, California, US",23,15413,361248,1550221,370496,2232033,2265726,898926,1234511,1460604
+California,Madera,"Madera, California, US",0,119,1010,3392,3353,27756,54053,37048,23646,16635
+California,Marin,"Marin, California, US",0,779,5254,15969,7929,89614,54987,20140,20773,6663
+California,Mariposa,"Mariposa, California, US",0,0,5,468,77,595,859,232,174,556
+California,Mendocino,"Mendocino, California, US",0,26,177,714,563,3835,10737,8524,8652,6328
+California,Merced,"Merced, California, US",0,44,2090,8515,5040,58337,124679,58748,30459,29294
+California,Modoc,"Modoc, California, US",0,0,0,0,0,6,154,508,274,1870
+California,Mono,"Mono, California, US",0,63,657,1704,0,1157,2579,26,505,7403
+California,Monterey,"Monterey, California, US",0,285,3386,14040,13364,63080,99757,78646,65170,57002
+California,Napa,"Napa, California, US",0,68,1219,4058,595,12088,19032,10216,10335,17920
+California,Nevada,"Nevada, California, US",0,93,1037,2401,0,4100,5416,3251,3220,8788
+California,Orange,"Orange, California, US",23,3246,42970,178342,53636,546678,509588,204049,220624,245201
+California,Out of CA,"Out of CA, California, US",0,0,0,0,0,0,0,0,0,0
+California,Placer,"Placer, California, US",0,449,3721,9645,0,26409,38511,23160,20883,40142
+California,Plumas,"Plumas, California, US",0,0,103,227,0,493,512,261,393,2464
+California,Riverside,"Riverside, California, US",0,1674,64229,244201,44107,500526,556087,271573,288416,326809
+California,Sacramento,"Sacramento, California, US",12,1778,23112,62987,0,142577,222410,191690,136652,175116
+California,San Benito,"San Benito, California, US",54,105,1131,3252,0,8543,13385,11363,5879,5708
+California,San Bernardino,"San Bernardino, California, US",0,629,31921,141492,71202,434796,573753,289555,306880,467118
+California,San Diego,"San Diego, California, US",36,4005,61203,237586,0,376891,383464,235149,312479,390761
+California,San Francisco,"San Francisco, California, US",0,3010,29902,97227,0,62541,100900,60166,52804,47511
+California,San Joaquin,"San Joaquin, California, US",0,949,10514,32649,14199,179436,213341,128639,76341,57491
+California,San Luis Obispo,"San Luis Obispo, California, US",0,604,3788,11718,0,24555,38969,23771,23878,32632
+California,San Mateo,"San Mateo, California, US",0,2814,23487,76549,0,55109,79849,61996,56142,47138
+California,Santa Barbara,"Santa Barbara, California, US",0,429,9560,48722,6232,76044,83087,36986,35129,21160
+California,Santa Clara,"Santa Clara, California, US",56,7139,50120,133165,0,119963,211414,158179,125768,152454
+California,Santa Cruz,"Santa Cruz, California, US",0,412,2806,8324,0,13419,23212,18212,19248,23919
+California,Shasta,"Shasta, California, US",0,44,709,1793,0,5123,7921,5383,28720,52471
+California,Sierra,"Sierra, California, US",0,0,0,10,20,5,115,30,6,194
+California,Siskiyou,"Siskiyou, California, US",0,28,136,336,43,910,1896,1293,1108,6620
+California,Solano,"Solano, California, US",0,371,4377,17172,1510,52310,66946,36879,37586,51180
+California,Sonoma,"Sonoma, California, US",0,513,4843,17172,1211,37105,73443,69730,65896,58820
+California,Stanislaus,"Stanislaus, California, US",0,218,5208,22569,12024,132175,194895,111203,55779,53173
+California,Sutter,"Sutter, California, US",0,28,823,1993,35,11366,19716,13601,8329,16674
+California,Tehama,"Tehama, California, US",0,0,27,89,815,3355,5761,4639,8728,14478
+California,Trinity,"Trinity, California, US",0,0,0,25,31,22,160,200,291,1820
+California,Tulare,"Tulare, California, US",0,271,9702,51633,23236,120212,167462,85549,70313,45857
+California,Tuolumne,"Tuolumne, California, US",0,2,62,149,135,2311,2402,1308,1397,9314
+California,Unassigned,"Unassigned, California, US",0,13,272,285,0,0,0,0,0,0
+California,Ventura,"Ventura, California, US",0,885,10826,36464,4700,102530,127548,75111,68395,76397
+California,Yolo,"Yolo, California, US",0,164,3105,8971,0,23096,29260,18732,14141,23211
+California,Yuba,"Yuba, California, US",0,30,421,1206,0,6449,14949,9496,6766,9992
