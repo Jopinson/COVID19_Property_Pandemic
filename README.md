@@ -11,6 +11,11 @@ We are attempting to create a machine learning model that can predict housing pr
 - Github Projects
 - Github Issues
 
+### Folder Structure
+- [data](data) - Contains Raw data, Processed Data, ERDs and SQL Queries
+- [models](models) - Contains trained models
+- [notebooks](notebooks) - Contains notebooks for ETL, data preprocessing, modeling
+- [reports](reports) - Contains final presentation slides, HTML / PDF reports, images required for reports and README 
 
 
 
