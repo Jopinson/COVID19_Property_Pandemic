@@ -1,0 +1,1420 @@
+State,County,Date,Covid_Cummulative_Numbers
+California,Alameda,2020-01-31,0
+California,Alpine,2020-01-31,0
+California,Amador,2020-01-31,0
+California,Butte,2020-01-31,0
+California,Calaveras,2020-01-31,0
+California,Colusa,2020-01-31,0
+California,Contra Costa,2020-01-31,0
+California,Del Norte,2020-01-31,0
+California,El Dorado,2020-01-31,0
+California,Fresno,2020-01-31,0
+California,Glenn,2020-01-31,0
+California,Humboldt,2020-01-31,0
+California,Imperial,2020-01-31,0
+California,Inyo,2020-01-31,0
+California,Kern,2020-01-31,0
+California,Kings,2020-01-31,0
+California,Lake,2020-01-31,0
+California,Lassen,2020-01-31,0
+California,Los Angeles,2020-01-31,1
+California,Madera,2020-01-31,0
+California,Marin,2020-01-31,0
+California,Mariposa,2020-01-31,0
+California,Mendocino,2020-01-31,0
+California,Merced,2020-01-31,0
+California,Modoc,2020-01-31,0
+California,Mono,2020-01-31,0
+California,Monterey,2020-01-31,0
+California,Napa,2020-01-31,0
+California,Nevada,2020-01-31,0
+California,Orange,2020-01-31,1
+California,Out of CA,2020-01-31,0
+California,Placer,2020-01-31,0
+California,Plumas,2020-01-31,0
+California,Riverside,2020-01-31,0
+California,Sacramento,2020-01-31,0
+California,San Benito,2020-01-31,0
+California,San Bernardino,2020-01-31,0
+California,San Diego,2020-01-31,0
+California,San Francisco,2020-01-31,0
+California,San Joaquin,2020-01-31,0
+California,San Luis Obispo,2020-01-31,0
+California,San Mateo,2020-01-31,0
+California,Santa Barbara,2020-01-31,0
+California,Santa Clara,2020-01-31,1
+California,Santa Cruz,2020-01-31,0
+California,Shasta,2020-01-31,0
+California,Sierra,2020-01-31,0
+California,Siskiyou,2020-01-31,0
+California,Solano,2020-01-31,0
+California,Sonoma,2020-01-31,0
+California,Stanislaus,2020-01-31,0
+California,Sutter,2020-01-31,0
+California,Tehama,2020-01-31,0
+California,Trinity,2020-01-31,0
+California,Tulare,2020-01-31,0
+California,Tuolumne,2020-01-31,0
+California,Unassigned,2020-01-31,0
+California,Ventura,2020-01-31,0
+California,Yolo,2020-01-31,0
+California,Yuba,2020-01-31,0
+Florida,Alachua,2020-01-31,0
+Florida,Baker,2020-01-31,0
+Florida,Bay,2020-01-31,0
+Florida,Bradford,2020-01-31,0
+Florida,Brevard,2020-01-31,0
+Florida,Broward,2020-01-31,0
+Florida,Calhoun,2020-01-31,0
+Florida,Charlotte,2020-01-31,0
+Florida,Citrus,2020-01-31,0
+Florida,Clay,2020-01-31,0
+Florida,Collier,2020-01-31,0
+Florida,Columbia,2020-01-31,0
+Florida,DeSoto,2020-01-31,0
+Florida,Dixie,2020-01-31,0
+Florida,Duval,2020-01-31,0
+Florida,Escambia,2020-01-31,0
+Florida,Flagler,2020-01-31,0
+Florida,Franklin,2020-01-31,0
+Florida,Gadsden,2020-01-31,0
+Florida,Gilchrist,2020-01-31,0
+Florida,Glades,2020-01-31,0
+Florida,Gulf,2020-01-31,0
+Florida,Hamilton,2020-01-31,0
+Florida,Hardee,2020-01-31,0
+Florida,Hendry,2020-01-31,0
+Florida,Hernando,2020-01-31,0
+Florida,Highlands,2020-01-31,0
+Florida,Hillsborough,2020-01-31,0
+Florida,Holmes,2020-01-31,0
+Florida,Indian River,2020-01-31,0
+Florida,Jackson,2020-01-31,0
+Florida,Jefferson,2020-01-31,0
+Florida,Lafayette,2020-01-31,0
+Florida,Lake,2020-01-31,0
+Florida,Lee,2020-01-31,0
+Florida,Leon,2020-01-31,0
+Florida,Levy,2020-01-31,0
+Florida,Liberty,2020-01-31,0
+Florida,Madison,2020-01-31,0
+Florida,Manatee,2020-01-31,0
+Florida,Marion,2020-01-31,0
+Florida,Martin,2020-01-31,0
+Florida,Miami-Dade,2020-01-31,0
+Florida,Monroe,2020-01-31,0
+Florida,Nassau,2020-01-31,0
+Florida,Okaloosa,2020-01-31,0
+Florida,Okeechobee,2020-01-31,0
+Florida,Orange,2020-01-31,0
+Florida,Osceola,2020-01-31,0
+Florida,Out of FL,2020-01-31,0
+Florida,Palm Beach,2020-01-31,0
+Florida,Pasco,2020-01-31,0
+Florida,Pinellas,2020-01-31,0
+Florida,Polk,2020-01-31,0
+Florida,Putnam,2020-01-31,0
+Florida,Santa Rosa,2020-01-31,0
+Florida,Sarasota,2020-01-31,0
+Florida,Seminole,2020-01-31,0
+Florida,St. Johns,2020-01-31,0
+Florida,St. Lucie,2020-01-31,0
+Florida,Sumter,2020-01-31,0
+Florida,Suwannee,2020-01-31,0
+Florida,Taylor,2020-01-31,0
+Florida,Unassigned,2020-01-31,0
+Florida,Union,2020-01-31,0
+Florida,Volusia,2020-01-31,0
+Florida,Wakulla,2020-01-31,0
+Florida,Walton,2020-01-31,0
+Florida,Washington,2020-01-31,0
+California,Alameda,2020-02-29,0
+California,Alpine,2020-02-29,0
+California,Amador,2020-02-29,0
+California,Butte,2020-02-29,0
+California,Calaveras,2020-02-29,0
+California,Colusa,2020-02-29,0
+California,Contra Costa,2020-02-29,0
+California,Del Norte,2020-02-29,0
+California,El Dorado,2020-02-29,0
+California,Fresno,2020-02-29,0
+California,Glenn,2020-02-29,0
+California,Humboldt,2020-02-29,1
+California,Imperial,2020-02-29,0
+California,Inyo,2020-02-29,0
+California,Kern,2020-02-29,0
+California,Kings,2020-02-29,0
+California,Lake,2020-02-29,0
+California,Lassen,2020-02-29,0
+California,Los Angeles,2020-02-29,0
+California,Madera,2020-02-29,0
+California,Marin,2020-02-29,0
+California,Mariposa,2020-02-29,0
+California,Mendocino,2020-02-29,0
+California,Merced,2020-02-29,0
+California,Modoc,2020-02-29,0
+California,Mono,2020-02-29,0
+California,Monterey,2020-02-29,0
+California,Napa,2020-02-29,0
+California,Nevada,2020-02-29,0
+California,Orange,2020-02-29,0
+California,Out of CA,2020-02-29,0
+California,Placer,2020-02-29,0
+California,Plumas,2020-02-29,0
+California,Riverside,2020-02-29,0
+California,Sacramento,2020-02-29,2
+California,San Benito,2020-02-29,2
+California,San Bernardino,2020-02-29,0
+California,San Diego,2020-02-29,2
+California,San Francisco,2020-02-29,0
+California,San Joaquin,2020-02-29,0
+California,San Luis Obispo,2020-02-29,0
+California,San Mateo,2020-02-29,0
+California,Santa Barbara,2020-02-29,0
+California,Santa Clara,2020-02-29,2
+California,Santa Cruz,2020-02-29,0
+California,Shasta,2020-02-29,0
+California,Sierra,2020-02-29,0
+California,Siskiyou,2020-02-29,0
+California,Solano,2020-02-29,0
+California,Sonoma,2020-02-29,0
+California,Stanislaus,2020-02-29,0
+California,Sutter,2020-02-29,0
+California,Tehama,2020-02-29,0
+California,Trinity,2020-02-29,0
+California,Tulare,2020-02-29,0
+California,Tuolumne,2020-02-29,0
+California,Unassigned,2020-02-29,0
+California,Ventura,2020-02-29,0
+California,Yolo,2020-02-29,0
+California,Yuba,2020-02-29,0
+Florida,Alachua,2020-02-29,0
+Florida,Baker,2020-02-29,0
+Florida,Bay,2020-02-29,0
+Florida,Bradford,2020-02-29,0
+Florida,Brevard,2020-02-29,0
+Florida,Broward,2020-02-29,0
+Florida,Calhoun,2020-02-29,0
+Florida,Charlotte,2020-02-29,0
+Florida,Citrus,2020-02-29,0
+Florida,Clay,2020-02-29,0
+Florida,Collier,2020-02-29,0
+Florida,Columbia,2020-02-29,0
+Florida,DeSoto,2020-02-29,0
+Florida,Dixie,2020-02-29,0
+Florida,Duval,2020-02-29,0
+Florida,Escambia,2020-02-29,0
+Florida,Flagler,2020-02-29,0
+Florida,Franklin,2020-02-29,0
+Florida,Gadsden,2020-02-29,0
+Florida,Gilchrist,2020-02-29,0
+Florida,Glades,2020-02-29,0
+Florida,Gulf,2020-02-29,0
+Florida,Hamilton,2020-02-29,0
+Florida,Hardee,2020-02-29,0
+Florida,Hendry,2020-02-29,0
+Florida,Hernando,2020-02-29,0
+Florida,Highlands,2020-02-29,0
+Florida,Hillsborough,2020-02-29,0
+Florida,Holmes,2020-02-29,0
+Florida,Indian River,2020-02-29,0
+Florida,Jackson,2020-02-29,0
+Florida,Jefferson,2020-02-29,0
+Florida,Lafayette,2020-02-29,0
+Florida,Lake,2020-02-29,0
+Florida,Lee,2020-02-29,0
+Florida,Leon,2020-02-29,0
+Florida,Levy,2020-02-29,0
+Florida,Liberty,2020-02-29,0
+Florida,Madison,2020-02-29,0
+Florida,Manatee,2020-02-29,0
+Florida,Marion,2020-02-29,0
+Florida,Martin,2020-02-29,0
+Florida,Miami-Dade,2020-02-29,0
+Florida,Monroe,2020-02-29,0
+Florida,Nassau,2020-02-29,0
+Florida,Okaloosa,2020-02-29,0
+Florida,Okeechobee,2020-02-29,0
+Florida,Orange,2020-02-29,0
+Florida,Osceola,2020-02-29,0
+Florida,Out of FL,2020-02-29,0
+Florida,Palm Beach,2020-02-29,0
+Florida,Pasco,2020-02-29,0
+Florida,Pinellas,2020-02-29,0
+Florida,Polk,2020-02-29,0
+Florida,Putnam,2020-02-29,0
+Florida,Santa Rosa,2020-02-29,0
+Florida,Sarasota,2020-02-29,0
+Florida,Seminole,2020-02-29,0
+Florida,St. Johns,2020-02-29,0
+Florida,St. Lucie,2020-02-29,0
+Florida,Sumter,2020-02-29,0
+Florida,Suwannee,2020-02-29,0
+Florida,Taylor,2020-02-29,0
+Florida,Unassigned,2020-02-29,0
+Florida,Union,2020-02-29,0
+Florida,Volusia,2020-02-29,0
+Florida,Wakulla,2020-02-29,0
+Florida,Walton,2020-02-29,0
+Florida,Washington,2020-02-29,0
+California,Alameda,2020-03-31,313
+California,Alpine,2020-03-31,0
+California,Amador,2020-03-31,2
+California,Butte,2020-03-31,8
+California,Calaveras,2020-03-31,3
+California,Colusa,2020-03-31,1
+California,Contra Costa,2020-03-31,212
+California,Del Norte,2020-03-31,0
+California,El Dorado,2020-03-31,15
+California,Fresno,2020-03-31,53
+California,Glenn,2020-03-31,2
+California,Humboldt,2020-03-31,20
+California,Imperial,2020-03-31,33
+California,Inyo,2020-03-31,8
+California,Kern,2020-03-31,83
+California,Kings,2020-03-31,3
+California,Lake,2020-03-31,0
+California,Lassen,2020-03-31,0
+California,Los Angeles,2020-03-31,3018
+California,Madera,2020-03-31,21
+California,Marin,2020-03-31,99
+California,Mariposa,2020-03-31,0
+California,Mendocino,2020-03-31,4
+California,Merced,2020-03-31,10
+California,Modoc,2020-03-31,0
+California,Mono,2020-03-31,13
+California,Monterey,2020-03-31,40
+California,Napa,2020-03-31,14
+California,Nevada,2020-03-31,21
+California,Orange,2020-03-31,501
+California,Out of CA,2020-03-31,0
+California,Placer,2020-03-31,57
+California,Plumas,2020-03-31,0
+California,Riverside,2020-03-31,371
+California,Sacramento,2020-03-31,222
+California,San Benito,2020-03-31,15
+California,San Bernardino,2020-03-31,125
+California,San Diego,2020-03-31,601
+California,San Francisco,2020-03-31,397
+California,San Joaquin,2020-03-31,136
+California,San Luis Obispo,2020-03-31,80
+California,San Mateo,2020-03-31,309
+California,Santa Barbara,2020-03-31,88
+California,Santa Clara,2020-03-31,887
+California,Santa Cruz,2020-03-31,45
+California,Shasta,2020-03-31,6
+California,Sierra,2020-03-31,0
+California,Siskiyou,2020-03-31,3
+California,Solano,2020-03-31,43
+California,Sonoma,2020-03-31,73
+California,Stanislaus,2020-03-31,33
+California,Sutter,2020-03-31,9
+California,Tehama,2020-03-31,0
+California,Trinity,2020-03-31,0
+California,Tulare,2020-03-31,43
+California,Tuolumne,2020-03-31,2
+California,Unassigned,2020-03-31,0
+California,Ventura,2020-03-31,149
+California,Yolo,2020-03-31,24
+California,Yuba,2020-03-31,6
+Florida,Alachua,2020-03-31,87
+Florida,Baker,2020-03-31,9
+Florida,Bay,2020-03-31,8
+Florida,Bradford,2020-03-31,2
+Florida,Brevard,2020-03-31,37
+Florida,Broward,2020-03-31,1219
+Florida,Calhoun,2020-03-31,1
+Florida,Charlotte,2020-03-31,24
+Florida,Citrus,2020-03-31,19
+Florida,Clay,2020-03-31,41
+Florida,Collier,2020-03-31,146
+Florida,Columbia,2020-03-31,3
+Florida,DeSoto,2020-03-31,7
+Florida,Dixie,2020-03-31,0
+Florida,Duval,2020-03-31,207
+Florida,Escambia,2020-03-31,94
+Florida,Flagler,2020-03-31,18
+Florida,Franklin,2020-03-31,0
+Florida,Gadsden,2020-03-31,1
+Florida,Gilchrist,2020-03-31,0
+Florida,Glades,2020-03-31,3
+Florida,Gulf,2020-03-31,0
+Florida,Hamilton,2020-03-31,0
+Florida,Hardee,2020-03-31,0
+Florida,Hendry,2020-03-31,4
+Florida,Hernando,2020-03-31,24
+Florida,Highlands,2020-03-31,17
+Florida,Hillsborough,2020-03-31,305
+Florida,Holmes,2020-03-31,1
+Florida,Indian River,2020-03-31,33
+Florida,Jackson,2020-03-31,2
+Florida,Jefferson,2020-03-31,0
+Florida,Lafayette,2020-03-31,0
+Florida,Lake,2020-03-31,66
+Florida,Lee,2020-03-31,206
+Florida,Leon,2020-03-31,26
+Florida,Levy,2020-03-31,2
+Florida,Liberty,2020-03-31,0
+Florida,Madison,2020-03-31,0
+Florida,Manatee,2020-03-31,53
+Florida,Marion,2020-03-31,25
+Florida,Martin,2020-03-31,28
+Florida,Miami-Dade,2020-03-31,2123
+Florida,Monroe,2020-03-31,27
+Florida,Nassau,2020-03-31,10
+Florida,Okaloosa,2020-03-31,39
+Florida,Okeechobee,2020-03-31,0
+Florida,Orange,2020-03-31,373
+Florida,Osceola,2020-03-31,110
+Florida,Out of FL,2020-03-31,0
+Florida,Palm Beach,2020-03-31,551
+Florida,Pasco,2020-03-31,40
+Florida,Pinellas,2020-03-31,167
+Florida,Polk,2020-03-31,73
+Florida,Putnam,2020-03-31,13
+Florida,Santa Rosa,2020-03-31,44
+Florida,Sarasota,2020-03-31,76
+Florida,Seminole,2020-03-31,103
+Florida,St. Johns,2020-03-31,79
+Florida,St. Lucie,2020-03-31,38
+Florida,Sumter,2020-03-31,51
+Florida,Suwannee,2020-03-31,3
+Florida,Taylor,2020-03-31,0
+Florida,Unassigned,2020-03-31,2
+Florida,Union,2020-03-31,1
+Florida,Volusia,2020-03-31,80
+Florida,Wakulla,2020-03-31,1
+Florida,Walton,2020-03-31,18
+Florida,Washington,2020-03-31,1
+California,Alameda,2020-04-30,1290
+California,Alpine,2020-04-30,2
+California,Amador,2020-04-30,6
+California,Butte,2020-04-30,8
+California,Calaveras,2020-04-30,10
+California,Colusa,2020-04-30,2
+California,Contra Costa,2020-04-30,679
+California,Del Norte,2020-04-30,3
+California,El Dorado,2020-04-30,29
+California,Fresno,2020-04-30,485
+California,Glenn,2020-04-30,3
+California,Humboldt,2020-04-30,33
+California,Imperial,2020-04-30,286
+California,Inyo,2020-04-30,11
+California,Kern,2020-04-30,810
+California,Kings,2020-04-30,93
+California,Lake,2020-04-30,6
+California,Lassen,2020-04-30,0
+California,Los Angeles,2020-04-30,20201
+California,Madera,2020-04-30,25
+California,Marin,2020-04-30,136
+California,Mariposa,2020-04-30,3
+California,Mendocino,2020-04-30,8
+California,Merced,2020-04-30,115
+California,Modoc,2020-04-30,0
+California,Mono,2020-04-30,13
+California,Monterey,2020-04-30,166
+California,Napa,2020-04-30,53
+California,Nevada,2020-04-30,20
+California,Orange,2020-04-30,1891
+California,Out of CA,2020-04-30,0
+California,Placer,2020-04-30,90
+California,Plumas,2020-04-30,4
+California,Riverside,2020-04-30,3660
+California,Sacramento,2020-04-30,853
+California,San Benito,2020-04-30,33
+California,San Bernardino,2020-04-30,1933
+California,San Diego,2020-04-30,2829
+California,San Francisco,2020-04-30,1102
+California,San Joaquin,2020-04-30,407
+California,San Luis Obispo,2020-04-30,104
+California,San Mateo,2020-04-30,868
+California,Santa Barbara,2020-04-30,397
+California,Santa Clara,2020-04-30,1273
+California,Santa Cruz,2020-04-30,86
+California,Shasta,2020-04-30,25
+California,Sierra,2020-04-30,0
+California,Siskiyou,2020-04-30,2
+California,Solano,2020-04-30,220
+California,Sonoma,2020-04-30,159
+California,Stanislaus,2020-04-30,306
+California,Sutter,2020-04-30,21
+California,Tehama,2020-04-30,1
+California,Trinity,2020-04-30,0
+California,Tulare,2020-04-30,597
+California,Tuolumne,2020-04-30,2
+California,Unassigned,2020-04-30,0
+California,Ventura,2020-04-30,386
+California,Yolo,2020-04-30,140
+California,Yuba,2020-04-30,12
+Florida,Alachua,2020-04-30,180
+Florida,Baker,2020-04-30,11
+Florida,Bay,2020-04-30,64
+Florida,Bradford,2020-04-30,44
+Florida,Brevard,2020-04-30,248
+Florida,Broward,2020-04-30,3734
+Florida,Calhoun,2020-04-30,7
+Florida,Charlotte,2020-04-30,212
+Florida,Citrus,2020-04-30,80
+Florida,Clay,2020-04-30,232
+Florida,Collier,2020-04-30,450
+Florida,Columbia,2020-04-30,55
+Florida,DeSoto,2020-04-30,22
+Florida,Dixie,2020-04-30,7
+Florida,Duval,2020-04-30,805
+Florida,Escambia,2020-04-30,412
+Florida,Flagler,2020-04-30,115
+Florida,Franklin,2020-04-30,2
+Florida,Gadsden,2020-04-30,94
+Florida,Gilchrist,2020-04-30,5
+Florida,Glades,2020-04-30,3
+Florida,Gulf,2020-04-30,1
+Florida,Hamilton,2020-04-30,6
+Florida,Hardee,2020-04-30,18
+Florida,Hendry,2020-04-30,79
+Florida,Hernando,2020-04-30,66
+Florida,Highlands,2020-04-30,64
+Florida,Hillsborough,2020-04-30,819
+Florida,Holmes,2020-04-30,9
+Florida,Indian River,2020-04-30,57
+Florida,Jackson,2020-04-30,12
+Florida,Jefferson,2020-04-30,28
+Florida,Lafayette,2020-04-30,1
+Florida,Lake,2020-04-30,161
+Florida,Lee,2020-04-30,815
+Florida,Leon,2020-04-30,193
+Florida,Levy,2020-04-30,17
+Florida,Liberty,2020-04-30,3
+Florida,Madison,2020-04-30,55
+Florida,Manatee,2020-04-30,527
+Florida,Marion,2020-04-30,150
+Florida,Martin,2020-04-30,163
+Florida,Miami-Dade,2020-04-30,9940
+Florida,Monroe,2020-04-30,52
+Florida,Nassau,2020-04-30,46
+Florida,Okaloosa,2020-04-30,115
+Florida,Okeechobee,2020-04-30,11
+Florida,Orange,2020-04-30,1012
+Florida,Osceola,2020-04-30,368
+Florida,Out of FL,2020-04-30,0
+Florida,Palm Beach,2020-04-30,2412
+Florida,Pasco,2020-04-30,209
+Florida,Pinellas,2020-04-30,562
+Florida,Polk,2020-04-30,410
+Florida,Putnam,2020-04-30,93
+Florida,Santa Rosa,2020-04-30,110
+Florida,Sarasota,2020-04-30,276
+Florida,Seminole,2020-04-30,276
+Florida,St. Johns,2020-04-30,129
+Florida,St. Lucie,2020-04-30,209
+Florida,Sumter,2020-04-30,130
+Florida,Suwannee,2020-04-30,127
+Florida,Taylor,2020-04-30,3
+Florida,Unassigned,2020-04-30,5
+Florida,Union,2020-04-30,3
+Florida,Volusia,2020-04-30,372
+Florida,Wakulla,2020-04-30,22
+Florida,Walton,2020-04-30,20
+Florida,Washington,2020-04-30,11
+California,Alameda,2020-05-31,1787
+California,Alpine,2020-05-31,0
+California,Amador,2020-05-31,11
+California,Butte,2020-05-31,28
+California,Calaveras,2020-05-31,2
+California,Colusa,2020-05-31,2
+California,Contra Costa,2020-05-31,559
+California,Del Norte,2020-05-31,42
+California,El Dorado,2020-05-31,46
+California,Fresno,2020-05-31,1205
+California,Glenn,2020-05-31,11
+California,Humboldt,2020-05-31,47
+California,Imperial,2020-05-31,1315
+California,Inyo,2020-05-31,1
+California,Kern,2020-05-31,1357
+California,Kings,2020-05-31,650
+California,Lake,2020-05-31,15
+California,Lassen,2020-05-31,5
+California,Los Angeles,2020-05-31,31781
+California,Madera,2020-05-31,60
+California,Marin,2020-05-31,248
+California,Mariposa,2020-05-31,13
+California,Mendocino,2020-05-31,18
+California,Merced,2020-05-31,158
+California,Modoc,2020-05-31,0
+California,Mono,2020-05-31,11
+California,Monterey,2020-05-31,324
+California,Napa,2020-05-31,45
+California,Nevada,2020-05-31,0
+California,Orange,2020-05-31,3868
+California,Out of CA,2020-05-31,0
+California,Placer,2020-05-31,68
+California,Plumas,2020-05-31,0
+California,Riverside,2020-05-31,3455
+California,Sacramento,2020-05-31,323
+California,San Benito,2020-05-31,37
+California,San Bernardino,2020-05-31,3188
+California,San Diego,2020-05-31,4049
+California,San Francisco,2020-05-31,1089
+California,San Joaquin,2020-05-31,315
+California,San Luis Obispo,2020-05-31,85
+California,San Mateo,2020-05-31,927
+California,Santa Barbara,2020-05-31,1164
+California,Santa Clara,2020-05-31,613
+California,Santa Cruz,2020-05-31,82
+California,Shasta,2020-05-31,8
+California,Sierra,2020-05-31,1
+California,Siskiyou,2020-05-31,2
+California,Solano,2020-05-31,254
+California,Sonoma,2020-05-31,321
+California,Stanislaus,2020-05-31,405
+California,Sutter,2020-05-31,16
+California,Tehama,2020-05-31,3
+California,Trinity,2020-05-31,1
+California,Tulare,2020-05-31,1204
+California,Tuolumne,2020-05-31,0
+California,Unassigned,2020-05-31,0
+California,Ventura,2020-05-31,543
+California,Yolo,2020-05-31,47
+California,Yuba,2020-05-31,12
+Florida,Alachua,2020-05-31,113
+Florida,Baker,2020-05-31,9
+Florida,Bay,2020-05-31,26
+Florida,Bradford,2020-05-31,5
+Florida,Brevard,2020-05-31,137
+Florida,Broward,2020-05-31,2170
+Florida,Calhoun,2020-05-31,55
+Florida,Charlotte,2020-05-31,222
+Florida,Citrus,2020-05-31,22
+Florida,Clay,2020-05-31,109
+Florida,Collier,2020-05-31,943
+Florida,Columbia,2020-05-31,86
+Florida,DeSoto,2020-05-31,153
+Florida,Dixie,2020-05-31,44
+Florida,Duval,2020-05-31,632
+Florida,Escambia,2020-05-31,309
+Florida,Flagler,2020-05-31,56
+Florida,Franklin,2020-05-31,0
+Florida,Gadsden,2020-05-31,178
+Florida,Gilchrist,2020-05-31,7
+Florida,Glades,2020-05-31,24
+Florida,Gulf,2020-05-31,0
+Florida,Hamilton,2020-05-31,227
+Florida,Hardee,2020-05-31,81
+Florida,Hendry,2020-05-31,332
+Florida,Hernando,2020-05-31,25
+Florida,Highlands,2020-05-31,48
+Florida,Hillsborough,2020-05-31,1077
+Florida,Holmes,2020-05-31,9
+Florida,Indian River,2020-05-31,40
+Florida,Jackson,2020-05-31,237
+Florida,Jefferson,2020-05-31,1
+Florida,Lafayette,2020-05-31,7
+Florida,Lake,2020-05-31,74
+Florida,Lee,2020-05-31,887
+Florida,Leon,2020-05-31,185
+Florida,Levy,2020-05-31,13
+Florida,Liberty,2020-05-31,210
+Florida,Madison,2020-05-31,14
+Florida,Manatee,2020-05-31,465
+Florida,Marion,2020-05-31,73
+Florida,Martin,2020-05-31,460
+Florida,Miami-Dade,2020-05-31,5937
+Florida,Monroe,2020-05-31,29
+Florida,Nassau,2020-05-31,20
+Florida,Okaloosa,2020-05-31,69
+Florida,Okeechobee,2020-05-31,72
+Florida,Orange,2020-05-31,617
+Florida,Osceola,2020-05-31,223
+Florida,Out of FL,2020-05-31,0
+Florida,Palm Beach,2020-05-31,3033
+Florida,Pasco,2020-05-31,137
+Florida,Pinellas,2020-05-31,568
+Florida,Polk,2020-05-31,544
+Florida,Putnam,2020-05-31,46
+Florida,Santa Rosa,2020-05-31,91
+Florida,Sarasota,2020-05-31,283
+Florida,Seminole,2020-05-31,111
+Florida,St. Johns,2020-05-31,52
+Florida,St. Lucie,2020-05-31,224
+Florida,Sumter,2020-05-31,72
+Florida,Suwannee,2020-05-31,37
+Florida,Taylor,2020-05-31,19
+Florida,Unassigned,2020-05-31,77
+Florida,Union,2020-05-31,28
+Florida,Volusia,2020-05-31,284
+Florida,Wakulla,2020-05-31,11
+Florida,Walton,2020-05-31,79
+Florida,Washington,2020-05-31,45
+California,Alameda,2020-06-30,2574
+California,Alpine,2020-06-30,0
+California,Amador,2020-06-30,3
+California,Butte,2020-06-30,124
+California,Calaveras,2020-06-30,17
+California,Colusa,2020-06-30,41
+California,Contra Costa,2020-06-30,1682
+California,Del Norte,2020-06-30,5
+California,El Dorado,2020-06-30,88
+California,Fresno,2020-06-30,3068
+California,Glenn,2020-06-30,87
+California,Humboldt,2020-06-30,32
+California,Imperial,2020-06-30,4608
+California,Inyo,2020-06-30,11
+California,Kern,2020-06-30,2405
+California,Kings,2020-06-30,1648
+California,Lake,2020-06-30,39
+California,Lassen,2020-06-30,224
+California,Los Angeles,2020-06-30,48849
+California,Madera,2020-06-30,382
+California,Marin,2020-06-30,1727
+California,Mariposa,2020-06-30,10
+California,Mendocino,2020-06-30,48
+California,Merced,2020-06-30,696
+California,Modoc,2020-06-30,0
+California,Mono,2020-06-30,5
+California,Monterey,2020-06-30,1112
+California,Napa,2020-06-30,205
+California,Nevada,2020-06-30,72
+California,Orange,2020-06-30,7582
+California,Out of CA,2020-06-30,0
+California,Placer,2020-06-30,469
+California,Plumas,2020-06-30,5
+California,Riverside,2020-06-30,9810
+California,Sacramento,2020-06-30,1823
+California,San Benito,2020-06-30,126
+California,San Bernardino,2020-06-30,7304
+California,San Diego,2020-06-30,6668
+California,San Francisco,2020-06-30,1015
+California,San Joaquin,2020-06-30,2998
+California,San Luis Obispo,2020-06-30,342
+California,San Mateo,2020-06-30,1128
+California,Santa Barbara,2020-06-30,1247
+California,Santa Clara,2020-06-30,1594
+California,Santa Cruz,2020-06-30,166
+California,Shasta,2020-06-30,73
+California,Sierra,2020-06-30,0
+California,Siskiyou,2020-06-30,21
+California,Solano,2020-06-30,609
+California,Sonoma,2020-06-30,583
+California,Stanislaus,2020-06-30,1421
+California,Sutter,2020-06-30,130
+California,Tehama,2020-06-30,71
+California,Trinity,2020-06-30,1
+California,Tulare,2020-06-30,2312
+California,Tuolumne,2020-06-30,24
+California,Unassigned,2020-06-30,0
+California,Ventura,2020-06-30,1848
+California,Yolo,2020-06-30,294
+California,Yuba,2020-06-30,41
+Florida,Alachua,2020-06-30,817
+Florida,Baker,2020-06-30,34
+Florida,Bay,2020-06-30,286
+Florida,Bradford,2020-06-30,32
+Florida,Brevard,2020-06-30,1371
+Florida,Broward,2020-06-30,8501
+Florida,Calhoun,2020-06-30,13
+Florida,Charlotte,2020-06-30,317
+Florida,Citrus,2020-06-30,170
+Florida,Clay,2020-06-30,331
+Florida,Collier,2020-06-30,2686
+Florida,Columbia,2020-06-30,143
+Florida,DeSoto,2020-06-30,422
+Florida,Dixie,2020-06-30,17
+Florida,Duval,2020-06-30,4563
+Florida,Escambia,2020-06-30,1137
+Florida,Flagler,2020-06-30,121
+Florida,Franklin,2020-06-30,4
+Florida,Gadsden,2020-06-30,106
+Florida,Gilchrist,2020-06-30,85
+Florida,Glades,2020-06-30,145
+Florida,Gulf,2020-06-30,22
+Florida,Hamilton,2020-06-30,101
+Florida,Hardee,2020-06-30,331
+Florida,Hendry,2020-06-30,538
+Florida,Hernando,2020-06-30,258
+Florida,Highlands,2020-06-30,221
+Florida,Hillsborough,2020-06-30,8551
+Florida,Holmes,2020-06-30,158
+Florida,Indian River,2020-06-30,567
+Florida,Jackson,2020-06-30,112
+Florida,Jefferson,2020-06-30,20
+Florida,Lafayette,2020-06-30,24
+Florida,Lake,2020-06-30,1001
+Florida,Lee,2020-06-30,3680
+Florida,Leon,2020-06-30,710
+Florida,Levy,2020-06-30,142
+Florida,Liberty,2020-06-30,9
+Florida,Madison,2020-06-30,126
+Florida,Manatee,2020-06-30,1811
+Florida,Marion,2020-06-30,424
+Florida,Martin,2020-06-30,1404
+Florida,Miami-Dade,2020-06-30,18820
+Florida,Monroe,2020-06-30,151
+Florida,Nassau,2020-06-30,106
+Florida,Okaloosa,2020-06-30,443
+Florida,Okeechobee,2020-06-30,294
+Florida,Orange,2020-06-30,8312
+Florida,Osceola,2020-06-30,1325
+Florida,Out of FL,2020-06-30,0
+Florida,Palm Beach,2020-06-30,8154
+Florida,Pasco,2020-06-30,1606
+Florida,Pinellas,2020-06-30,5190
+Florida,Polk,2020-06-30,2809
+Florida,Putnam,2020-06-30,187
+Florida,Santa Rosa,2020-06-30,348
+Florida,Sarasota,2020-06-30,847
+Florida,Seminole,2020-06-30,2076
+Florida,St. Johns,2020-06-30,688
+Florida,St. Lucie,2020-06-30,1253
+Florida,Sumter,2020-06-30,92
+Florida,Suwannee,2020-06-30,332
+Florida,Taylor,2020-06-30,57
+Florida,Unassigned,2020-06-30,61
+Florida,Union,2020-06-30,30
+Florida,Volusia,2020-06-30,1369
+Florida,Wakulla,2020-06-30,26
+Florida,Walton,2020-06-30,128
+Florida,Washington,2020-06-30,56
+California,Alameda,2020-07-31,5175
+California,Alpine,2020-07-31,0
+California,Amador,2020-07-31,93
+California,Butte,2020-07-31,773
+California,Calaveras,2020-07-31,93
+California,Colusa,2020-07-31,277
+California,Contra Costa,2020-07-31,4538
+California,Del Norte,2020-07-31,38
+California,El Dorado,2020-07-31,459
+California,Fresno,2020-07-31,9628
+California,Glenn,2020-07-31,222
+California,Humboldt,2020-07-31,100
+California,Imperial,2020-07-31,3124
+California,Inyo,2020-07-31,19
+California,Kern,2020-07-31,14680
+California,Kings,2020-07-31,1752
+California,Lake,2020-07-31,135
+California,Lassen,2020-07-31,402
+California,Los Angeles,2020-07-31,84691
+California,Madera,2020-07-31,1455
+California,Marin,2020-07-31,2777
+California,Mariposa,2020-07-31,27
+California,Mendocino,2020-07-31,234
+California,Merced,2020-07-31,3086
+California,Modoc,2020-07-31,2
+California,Mono,2020-07-31,100
+California,Monterey,2020-07-31,2900
+California,Napa,2020-07-31,571
+California,Nevada,2020-07-31,186
+California,Orange,2020-07-31,22353
+California,Out of CA,2020-07-31,0
+California,Placer,2020-07-31,1192
+California,Plumas,2020-07-31,24
+California,Riverside,2020-07-31,19715
+California,Sacramento,2020-07-31,6597
+California,San Benito,2020-07-31,409
+California,San Bernardino,2020-07-31,19680
+California,San Diego,2020-07-31,14899
+California,San Francisco,2020-07-31,2972
+California,San Joaquin,2020-07-31,7627
+California,San Luis Obispo,2020-07-31,1172
+California,San Mateo,2020-07-31,2237
+California,Santa Barbara,2020-07-31,3271
+California,Santa Clara,2020-07-31,5543
+California,Santa Cruz,2020-07-31,730
+California,Shasta,2020-07-31,257
+California,Sierra,2020-07-31,1
+California,Siskiyou,2020-07-31,44
+California,Solano,2020-07-31,2485
+California,Sonoma,2020-07-31,1706
+California,Stanislaus,2020-07-31,6725
+California,Sutter,2020-07-31,579
+California,Tehama,2020-07-31,152
+California,Trinity,2020-07-31,3
+California,Tulare,2020-07-31,5298
+California,Tuolumne,2020-07-31,113
+California,Unassigned,2020-07-31,0
+California,Ventura,2020-07-31,4418
+California,Yolo,2020-07-31,1005
+California,Yuba,2020-07-31,394
+Florida,Alachua,2020-07-31,2329
+Florida,Baker,2020-07-31,293
+Florida,Bay,2020-07-31,3091
+Florida,Bradford,2020-07-31,242
+Florida,Brevard,2020-07-31,3627
+Florida,Broward,2020-07-31,39787
+Florida,Calhoun,2020-07-31,205
+Florida,Charlotte,2020-07-31,1171
+Florida,Citrus,2020-07-31,914
+Florida,Clay,2020-07-31,2095
+Florida,Collier,2020-07-31,5356
+Florida,Columbia,2020-07-31,2189
+Florida,DeSoto,2020-07-31,660
+Florida,Dixie,2020-07-31,184
+Florida,Duval,2020-07-31,14831
+Florida,Escambia,2020-07-31,5786
+Florida,Flagler,2020-07-31,591
+Florida,Franklin,2020-07-31,102
+Florida,Gadsden,2020-07-31,968
+Florida,Gilchrist,2020-07-31,212
+Florida,Glades,2020-07-31,214
+Florida,Gulf,2020-07-31,313
+Florida,Hamilton,2020-07-31,236
+Florida,Hardee,2020-07-31,403
+Florida,Hendry,2020-07-31,679
+Florida,Hernando,2020-07-31,1301
+Florida,Highlands,2020-07-31,813
+Florida,Hillsborough,2020-07-31,18364
+Florida,Holmes,2020-07-31,245
+Florida,Indian River,2020-07-31,1507
+Florida,Jackson,2020-07-31,1203
+Florida,Jefferson,2020-07-31,180
+Florida,Lafayette,2020-07-31,70
+Florida,Lake,2020-07-31,3214
+Florida,Lee,2020-07-31,9828
+Florida,Leon,2020-07-31,3057
+Florida,Levy,2020-07-31,401
+Florida,Liberty,2020-07-31,148
+Florida,Madison,2020-07-31,409
+Florida,Manatee,2020-07-31,5661
+Florida,Marion,2020-07-31,4220
+Florida,Martin,2020-07-31,1536
+Florida,Miami-Dade,2020-07-31,81642
+Florida,Monroe,2020-07-31,1041
+Florida,Nassau,2020-07-31,872
+Florida,Okaloosa,2020-07-31,2099
+Florida,Okeechobee,2020-07-31,516
+Florida,Orange,2020-07-31,18697
+Florida,Osceola,2020-07-31,6444
+Florida,Out of FL,2020-07-31,0
+Florida,Palm Beach,2020-07-31,19124
+Florida,Pasco,2020-07-31,4307
+Florida,Pinellas,2020-07-31,9869
+Florida,Polk,2020-07-31,8652
+Florida,Putnam,2020-07-31,962
+Florida,Santa Rosa,2020-07-31,2743
+Florida,Sarasota,2020-07-31,4106
+Florida,Seminole,2020-07-31,3921
+Florida,St. Johns,2020-07-31,2268
+Florida,St. Lucie,2020-07-31,3278
+Florida,Sumter,2020-07-31,732
+Florida,Suwannee,2020-07-31,632
+Florida,Taylor,2020-07-31,251
+Florida,Unassigned,2020-07-31,425
+Florida,Union,2020-07-31,153
+Florida,Volusia,2020-07-31,4729
+Florida,Wakulla,2020-07-31,512
+Florida,Walton,2020-07-31,960
+Florida,Washington,2020-07-31,382
+California,Alameda,2020-08-31,7048
+California,Alpine,2020-08-31,0
+California,Amador,2020-08-31,165
+California,Butte,2020-08-31,1085
+California,Calaveras,2020-08-31,111
+California,Colusa,2020-08-31,122
+California,Contra Costa,2020-08-31,6268
+California,Del Norte,2020-08-31,35
+California,El Dorado,2020-08-31,330
+California,Fresno,2020-08-31,10524
+California,Glenn,2020-08-31,128
+California,Humboldt,2020-08-31,155
+California,Imperial,2020-08-31,1353
+California,Inyo,2020-08-31,129
+California,Kern,2020-08-31,9989
+California,Kings,2020-08-31,2194
+California,Lake,2020-08-31,150
+California,Lassen,2020-08-31,85
+California,Los Angeles,2020-08-31,53227
+California,Madera,2020-08-31,1840
+California,Marin,2020-08-31,1177
+California,Mariposa,2020-08-31,18
+California,Mendocino,2020-08-31,392
+California,Merced,2020-08-31,3967
+California,Modoc,2020-08-31,10
+California,Mono,2020-08-31,20
+California,Monterey,2020-08-31,3438
+California,Napa,2020-08-31,543
+California,Nevada,2020-08-31,147
+California,Orange,2020-08-31,12342
+California,Out of CA,2020-08-31,0
+California,Placer,2020-08-31,1127
+California,Plumas,2020-08-31,8
+California,Riverside,2020-08-31,15898
+California,Sacramento,2020-08-31,8232
+California,San Benito,2020-08-31,475
+California,San Bernardino,2020-08-31,15412
+California,San Diego,2020-08-31,9556
+California,San Francisco,2020-08-31,2919
+California,San Joaquin,2020-08-31,6154
+California,San Luis Obispo,2020-08-31,1198
+California,San Mateo,2020-08-31,2700
+California,Santa Barbara,2020-08-31,1976
+California,Santa Clara,2020-08-31,7436
+California,Santa Cruz,2020-08-31,635
+California,Shasta,2020-08-31,201
+California,Sierra,2020-08-31,4
+California,Siskiyou,2020-08-31,65
+California,Solano,2020-08-31,1901
+California,Sonoma,2020-08-31,2876
+California,Stanislaus,2020-08-31,5820
+California,Sutter,2020-08-31,654
+California,Tehama,2020-08-31,192
+California,Trinity,2020-08-31,8
+California,Tulare,2020-08-31,4625
+California,Tuolumne,2020-08-31,48
+California,Unassigned,2020-08-31,0
+California,Ventura,2020-08-31,3431
+California,Yolo,2020-08-31,914
+California,Yuba,2020-08-31,462
+Florida,Alachua,2020-08-31,1670
+Florida,Baker,2020-08-31,797
+Florida,Bay,2020-08-31,1888
+Florida,Bradford,2020-08-31,413
+Florida,Brevard,2020-08-31,1814
+Florida,Broward,2020-08-31,15710
+Florida,Calhoun,2020-08-31,289
+Florida,Charlotte,2020-08-31,731
+Florida,Citrus,2020-08-31,890
+Florida,Clay,2020-08-31,1284
+Florida,Collier,2020-08-31,2028
+Florida,Columbia,2020-08-31,864
+Florida,DeSoto,2020-08-31,225
+Florida,Dixie,2020-08-31,467
+Florida,Duval,2020-08-31,5422
+Florida,Escambia,2020-08-31,3445
+Florida,Flagler,2020-08-31,411
+Florida,Franklin,2020-08-31,436
+Florida,Gadsden,2020-08-31,977
+Florida,Gilchrist,2020-08-31,155
+Florida,Glades,2020-08-31,67
+Florida,Gulf,2020-08-31,488
+Florida,Hamilton,2020-08-31,129
+Florida,Hardee,2020-08-31,264
+Florida,Hendry,2020-08-31,343
+Florida,Hernando,2020-08-31,941
+Florida,Highlands,2020-08-31,660
+Florida,Hillsborough,2020-08-31,8020
+Florida,Holmes,2020-08-31,200
+Florida,Indian River,2020-08-31,631
+Florida,Jackson,2020-08-31,770
+Florida,Jefferson,2020-08-31,271
+Florida,Lafayette,2020-08-31,1102
+Florida,Lake,2020-08-31,1880
+Florida,Lee,2020-08-31,3257
+Florida,Leon,2020-08-31,2150
+Florida,Levy,2020-08-31,336
+Florida,Liberty,2020-08-31,63
+Florida,Madison,2020-08-31,264
+Florida,Manatee,2020-08-31,1909
+Florida,Marion,2020-08-31,3604
+Florida,Martin,2020-08-31,906
+Florida,Miami-Dade,2020-08-31,38448
+Florida,Monroe,2020-08-31,434
+Florida,Nassau,2020-08-31,650
+Florida,Okaloosa,2020-08-31,1389
+Florida,Okeechobee,2020-08-31,350
+Florida,Orange,2020-08-31,6891
+Florida,Osceola,2020-08-31,2664
+Florida,Out of FL,2020-08-31,0
+Florida,Palm Beach,2020-08-31,8691
+Florida,Pasco,2020-08-31,1749
+Florida,Pinellas,2020-08-31,3573
+Florida,Polk,2020-08-31,4523
+Florida,Putnam,2020-08-31,479
+Florida,Santa Rosa,2020-08-31,1335
+Florida,Sarasota,2020-08-31,1619
+Florida,Seminole,2020-08-31,1542
+Florida,St. Johns,2020-08-31,1116
+Florida,St. Lucie,2020-08-31,1990
+Florida,Sumter,2020-08-31,775
+Florida,Suwannee,2020-08-31,1308
+Florida,Taylor,2020-08-31,870
+Florida,Unassigned,2020-08-31,430
+Florida,Union,2020-08-31,379
+Florida,Volusia,2020-08-31,2449
+Florida,Wakulla,2020-08-31,316
+Florida,Walton,2020-08-31,433
+Florida,Washington,2020-08-31,511
+California,Alameda,2020-09-30,3196
+California,Alpine,2020-09-30,0
+California,Amador,2020-09-30,16
+California,Butte,2020-09-30,822
+California,Calaveras,2020-09-30,86
+California,Colusa,2020-09-30,90
+California,Contra Costa,2020-09-30,2855
+California,Del Norte,2020-09-30,21
+California,El Dorado,2020-09-30,184
+California,Fresno,2020-09-30,3658
+California,Glenn,2020-09-30,143
+California,Humboldt,2020-09-30,124
+California,Imperial,2020-09-30,1189
+California,Inyo,2020-09-30,9
+California,Kern,2020-09-30,2749
+California,Kings,2020-09-30,1341
+California,Lake,2020-09-30,221
+California,Lassen,2020-09-30,25
+California,Los Angeles,2020-09-30,28531
+California,Madera,2020-09-30,800
+California,Marin,2020-09-30,570
+California,Mariposa,2020-09-30,5
+California,Mendocino,2020-09-30,250
+California,Merced,2020-09-30,929
+California,Modoc,2020-09-30,15
+California,Mono,2020-09-30,4
+California,Monterey,2020-09-30,2070
+California,Napa,2020-09-30,296
+California,Nevada,2020-09-30,95
+California,Orange,2020-09-30,5213
+California,Out of CA,2020-09-30,0
+California,Placer,2020-09-30,601
+California,Plumas,2020-09-30,9
+California,Riverside,2020-09-30,6496
+California,Sacramento,2020-09-30,4538
+California,San Benito,2020-09-30,255
+California,San Bernardino,2020-09-30,7561
+California,San Diego,2020-09-30,8576
+California,San Francisco,2020-09-30,1781
+California,San Joaquin,2020-09-30,2774
+California,San Luis Obispo,2020-09-30,631
+California,San Mateo,2020-09-30,1821
+California,Santa Barbara,2020-09-30,1021
+California,Santa Clara,2020-09-30,4030
+California,Santa Cruz,2020-09-30,650
+California,Shasta,2020-09-30,373
+California,Sierra,2020-09-30,0
+California,Siskiyou,2020-09-30,29
+California,Solano,2020-09-30,933
+California,Sonoma,2020-09-30,1860
+California,Stanislaus,2020-09-30,1802
+California,Sutter,2020-09-30,311
+California,Tehama,2020-09-30,166
+California,Trinity,2020-09-30,3
+California,Tulare,2020-09-30,2125
+California,Tuolumne,2020-09-30,38
+California,Unassigned,2020-09-30,0
+California,Ventura,2020-09-30,2100
+California,Yolo,2020-09-30,404
+California,Yuba,2020-09-30,245
+Florida,Alachua,2020-09-30,3097
+Florida,Baker,2020-09-30,331
+Florida,Bay,2020-09-30,761
+Florida,Bradford,2020-09-30,391
+Florida,Brevard,2020-09-30,1815
+Florida,Broward,2020-09-30,6099
+Florida,Calhoun,2020-09-30,50
+Florida,Charlotte,2020-09-30,405
+Florida,Citrus,2020-09-30,688
+Florida,Clay,2020-09-30,1059
+Florida,Collier,2020-09-30,1142
+Florida,Columbia,2020-09-30,496
+Florida,DeSoto,2020-09-30,82
+Florida,Dixie,2020-09-30,116
+Florida,Duval,2020-09-30,4088
+Florida,Escambia,2020-09-30,1170
+Florida,Flagler,2020-09-30,439
+Florida,Franklin,2020-09-30,83
+Florida,Gadsden,2020-09-30,509
+Florida,Gilchrist,2020-09-30,49
+Florida,Glades,2020-09-30,86
+Florida,Gulf,2020-09-30,51
+Florida,Hamilton,2020-09-30,160
+Florida,Hardee,2020-09-30,269
+Florida,Hendry,2020-09-30,101
+Florida,Hernando,2020-09-30,560
+Florida,Highlands,2020-09-30,354
+Florida,Hillsborough,2020-09-30,5112
+Florida,Holmes,2020-09-30,134
+Florida,Indian River,2020-09-30,419
+Florida,Jackson,2020-09-30,497
+Florida,Jefferson,2020-09-30,60
+Florida,Lafayette,2020-09-30,29
+Florida,Lake,2020-09-30,1146
+Florida,Lee,2020-09-30,1843
+Florida,Leon,2020-09-30,4324
+Florida,Levy,2020-09-30,133
+Florida,Liberty,2020-09-30,84
+Florida,Madison,2020-09-30,149
+Florida,Manatee,2020-09-30,1153
+Florida,Marion,2020-09-30,1278
+Florida,Martin,2020-09-30,430
+Florida,Miami-Dade,2020-09-30,13490
+Florida,Monroe,2020-09-30,113
+Florida,Nassau,2020-09-30,423
+Florida,Okaloosa,2020-09-30,882
+Florida,Okeechobee,2020-09-30,332
+Florida,Orange,2020-09-30,4427
+Florida,Osceola,2020-09-30,1422
+Florida,Out of FL,2020-09-30,0
+Florida,Palm Beach,2020-09-30,4587
+Florida,Pasco,2020-09-30,1274
+Florida,Pinellas,2020-09-30,2252
+Florida,Polk,2020-09-30,3021
+Florida,Putnam,2020-09-30,361
+Florida,Santa Rosa,2020-09-30,683
+Florida,Sarasota,2020-09-30,982
+Florida,Seminole,2020-09-30,1068
+Florida,St. Johns,2020-09-30,1059
+Florida,St. Lucie,2020-09-30,1099
+Florida,Sumter,2020-09-30,461
+Florida,Suwannee,2020-09-30,300
+Florida,Taylor,2020-09-30,129
+Florida,Unassigned,2020-09-30,730
+Florida,Union,2020-09-30,375
+Florida,Volusia,2020-09-30,1662
+Florida,Wakulla,2020-09-30,254
+Florida,Walton,2020-09-30,339
+Florida,Washington,2020-09-30,78
+California,Alameda,2020-10-31,2493
+California,Alpine,2020-10-31,6
+California,Amador,2020-10-31,48
+California,Butte,2020-10-31,312
+California,Calaveras,2020-10-31,32
+California,Colusa,2020-10-31,22
+California,Contra Costa,2020-10-31,2293
+California,Del Norte,2020-10-31,37
+California,El Dorado,2020-10-31,237
+California,Fresno,2020-10-31,2788
+California,Glenn,2020-10-31,89
+California,Humboldt,2020-10-31,59
+California,Imperial,2020-10-31,1130
+California,Inyo,2020-10-31,53
+California,Kern,2020-10-31,2235
+California,Kings,2020-10-31,883
+California,Lake,2020-10-31,154
+California,Lassen,2020-10-31,36
+California,Los Angeles,2020-10-31,37319
+California,Madera,2020-10-31,511
+California,Marin,2020-10-31,397
+California,Mariposa,2020-10-31,5
+California,Mendocino,2020-10-31,211
+California,Merced,2020-10-31,713
+California,Modoc,2020-10-31,23
+California,Mono,2020-10-31,27
+California,Monterey,2020-10-31,1655
+California,Napa,2020-10-31,301
+California,Nevada,2020-10-31,101
+California,Orange,2020-10-31,6131
+California,Out of CA,2020-10-31,0
+California,Placer,2020-10-31,749
+California,Plumas,2020-10-31,35
+California,Riverside,2020-10-31,8645
+California,Sacramento,2020-10-31,3595
+California,San Benito,2020-10-31,112
+California,San Bernardino,2020-10-31,9749
+California,San Diego,2020-10-31,9570
+California,San Francisco,2020-10-31,1124
+California,San Joaquin,2020-10-31,1695
+California,San Luis Obispo,2020-10-31,686
+California,San Mateo,2020-10-31,1381
+California,Santa Barbara,2020-10-31,780
+California,Santa Clara,2020-10-31,3607
+California,Santa Cruz,2020-10-31,490
+California,Shasta,2020-10-31,1105
+California,Sierra,2020-10-31,0
+California,Siskiyou,2020-10-31,75
+California,Solano,2020-10-31,1189
+California,Sonoma,2020-10-31,2108
+California,Stanislaus,2020-10-31,1416
+California,Sutter,2020-10-31,192
+California,Tehama,2020-10-31,347
+California,Trinity,2020-10-31,17
+California,Tulare,2020-10-31,1648
+California,Tuolumne,2020-10-31,64
+California,Unassigned,2020-10-31,0
+California,Ventura,2020-10-31,1703
+California,Yolo,2020-10-31,464
+California,Yuba,2020-10-31,181
+Florida,Alachua,2020-10-31,2289
+Florida,Baker,2020-10-31,311
+Florida,Bay,2020-10-31,742
+Florida,Bradford,2020-10-31,110
+Florida,Brevard,2020-10-31,2694
+Florida,Broward,2020-10-31,9015
+Florida,Calhoun,2020-10-31,107
+Florida,Charlotte,2020-10-31,633
+Florida,Citrus,2020-10-31,492
+Florida,Clay,2020-10-31,1004
+Florida,Collier,2020-10-31,1836
+Florida,Columbia,2020-10-31,448
+Florida,DeSoto,2020-10-31,105
+Florida,Dixie,2020-10-31,68
+Florida,Duval,2020-10-31,4708
+Florida,Escambia,2020-10-31,1289
+Florida,Flagler,2020-10-31,406
+Florida,Franklin,2020-10-31,146
+Florida,Gadsden,2020-10-31,235
+Florida,Gilchrist,2020-10-31,98
+Florida,Glades,2020-10-31,68
+Florida,Gulf,2020-10-31,68
+Florida,Hamilton,2020-10-31,48
+Florida,Hardee,2020-10-31,251
+Florida,Hendry,2020-10-31,162
+Florida,Hernando,2020-10-31,597
+Florida,Highlands,2020-10-31,502
+Florida,Hillsborough,2020-10-31,6039
+Florida,Holmes,2020-10-31,178
+Florida,Indian River,2020-10-31,642
+Florida,Jackson,2020-10-31,314
+Florida,Jefferson,2020-10-31,120
+Florida,Lafayette,2020-10-31,46
+Florida,Lake,2020-10-31,1138
+Florida,Lee,2020-10-31,3073
+Florida,Leon,2020-10-31,1749
+Florida,Levy,2020-10-31,107
+Florida,Liberty,2020-10-31,22
+Florida,Madison,2020-10-31,66
+Florida,Manatee,2020-10-31,1884
+Florida,Marion,2020-10-31,1152
+Florida,Martin,2020-10-31,480
+Florida,Miami-Dade,2020-10-31,15491
+Florida,Monroe,2020-10-31,457
+Florida,Nassau,2020-10-31,371
+Florida,Okaloosa,2020-10-31,1463
+Florida,Okeechobee,2020-10-31,175
+Florida,Orange,2020-10-31,6105
+Florida,Osceola,2020-10-31,1731
+Florida,Out of FL,2020-10-31,0
+Florida,Palm Beach,2020-10-31,5895
+Florida,Pasco,2020-10-31,1650
+Florida,Pinellas,2020-10-31,3805
+Florida,Polk,2020-10-31,3132
+Florida,Putnam,2020-10-31,261
+Florida,Santa Rosa,2020-10-31,640
+Florida,Sarasota,2020-10-31,1556
+Florida,Seminole,2020-10-31,1314
+Florida,St. Johns,2020-10-31,1208
+Florida,St. Lucie,2020-10-31,1038
+Florida,Sumter,2020-10-31,632
+Florida,Suwannee,2020-10-31,276
+Florida,Taylor,2020-10-31,159
+Florida,Unassigned,2020-10-31,210
+Florida,Union,2020-10-31,170
+Florida,Volusia,2020-10-31,1982
+Florida,Wakulla,2020-10-31,185
+Florida,Walton,2020-10-31,519
+Florida,Washington,2020-10-31,164
+California,Alameda,2020-11-30,6042
+California,Alpine,2020-11-30,42
+California,Amador,2020-11-30,246
+California,Butte,2020-11-30,848
+California,Calaveras,2020-11-30,124
+California,Colusa,2020-11-30,166
+California,Contra Costa,2020-11-30,5189
+California,Del Norte,2020-11-30,158
+California,El Dorado,2020-11-30,1059
+California,Fresno,2020-11-30,7159
+California,Glenn,2020-11-30,266
+California,Humboldt,2020-11-30,327
+California,Imperial,2020-11-30,3234
+California,Inyo,2020-11-30,49
+California,Kern,2020-11-30,7519
+California,Kings,2020-11-30,2706
+California,Lake,2020-11-30,207
+California,Lassen,2020-11-30,1016
+California,Los Angeles,2020-11-30,93301
+California,Madera,2020-11-30,1196
+California,Marin,2020-11-30,646
+California,Mariposa,2020-11-30,58
+California,Mendocino,2020-11-30,415
+California,Merced,2020-11-30,2099
+California,Modoc,2020-11-30,93
+California,Mono,2020-11-30,355
+California,Monterey,2020-11-30,3916
+California,Napa,2020-11-30,1062
+California,Nevada,2020-11-30,669
+California,Orange,2020-11-30,18671
+California,Out of CA,2020-11-30,0
+California,Placer,2020-11-30,2269
+California,Plumas,2020-11-30,130
+California,Riverside,2020-11-30,19333
+California,Sacramento,2020-11-30,11230
+California,San Benito,2020-11-30,429
+California,San Bernardino,2020-11-30,28719
+California,San Diego,2020-11-30,25293
+California,San Francisco,2020-11-30,3172
+California,San Joaquin,2020-11-30,3634
+California,San Luis Obispo,2020-11-30,1847
+California,San Mateo,2020-11-30,3087
+California,Santa Barbara,2020-11-30,1576
+California,Santa Clara,2020-11-30,10099
+California,Santa Cruz,2020-11-30,1606
+California,Shasta,2020-11-30,2915
+California,Sierra,2020-11-30,13
+California,Siskiyou,2020-11-30,383
+California,Solano,2020-11-30,3014
+California,Sonoma,2020-11-30,2633
+California,Stanislaus,2020-11-30,4234
+California,Sutter,2020-11-30,1420
+California,Tehama,2020-11-30,778
+California,Trinity,2020-11-30,126
+California,Tulare,2020-11-30,2941
+California,Tuolumne,2020-11-30,744
+California,Unassigned,2020-11-30,0
+California,Ventura,2020-11-30,5374
+California,Yolo,2020-11-30,1601
+California,Yuba,2020-11-30,683
+Florida,Alachua,2020-11-30,2282
+Florida,Baker,2020-11-30,235
+Florida,Bay,2020-11-30,1605
+Florida,Bradford,2020-11-30,173
+Florida,Brevard,2020-11-30,3813
+Florida,Broward,2020-11-30,21289
+Florida,Calhoun,2020-11-30,143
+Florida,Charlotte,2020-11-30,1372
+Florida,Citrus,2020-11-30,1478
+Florida,Clay,2020-11-30,1864
+Florida,Collier,2020-11-30,3170
+Florida,Columbia,2020-11-30,505
+Florida,DeSoto,2020-11-30,735
+Florida,Dixie,2020-11-30,60
+Florida,Duval,2020-11-30,8722
+Florida,Escambia,2020-11-30,3087
+Florida,Flagler,2020-11-30,589
+Florida,Franklin,2020-11-30,57
+Florida,Gadsden,2020-11-30,244
+Florida,Gilchrist,2020-11-30,152
+Florida,Glades,2020-11-30,62
+Florida,Gulf,2020-11-30,118
+Florida,Hamilton,2020-11-30,71
+Florida,Hardee,2020-11-30,148
+Florida,Hendry,2020-11-30,259
+Florida,Hernando,2020-11-30,1233
+Florida,Highlands,2020-11-30,1101
+Florida,Hillsborough,2020-11-30,10006
+Florida,Holmes,2020-11-30,232
+Florida,Indian River,2020-11-30,1120
+Florida,Jackson,2020-11-30,736
+Florida,Jefferson,2020-11-30,94
+Florida,Lafayette,2020-11-30,44
+Florida,Lake,2020-11-30,1991
+Florida,Lee,2020-11-30,6524
+Florida,Leon,2020-11-30,2600
+Florida,Levy,2020-11-30,260
+Florida,Liberty,2020-11-30,56
+Florida,Madison,2020-11-30,184
+Florida,Manatee,2020-11-30,3397
+Florida,Marion,2020-11-30,2118
+Florida,Martin,2020-11-30,855
+Florida,Miami-Dade,2020-11-30,43727
+Florida,Monroe,2020-11-30,1077
+Florida,Nassau,2020-11-30,698
+Florida,Okaloosa,2020-11-30,2386
+Florida,Okeechobee,2020-11-30,286
+Florida,Orange,2020-11-30,11891
+Florida,Osceola,2020-11-30,4067
+Florida,Out of FL,2020-11-30,0
+Florida,Palm Beach,2020-11-30,12925
+Florida,Pasco,2020-11-30,3927
+Florida,Pinellas,2020-11-30,7072
+Florida,Polk,2020-11-30,4447
+Florida,Putnam,2020-11-30,346
+Florida,Santa Rosa,2020-11-30,1489
+Florida,Sarasota,2020-11-30,4018
+Florida,Seminole,2020-11-30,2529
+Florida,St. Johns,2020-11-30,2233
+Florida,St. Lucie,2020-11-30,1666
+Florida,Sumter,2020-11-30,522
+Florida,Suwannee,2020-11-30,266
+Florida,Taylor,2020-11-30,157
+Florida,Unassigned,2020-11-30,828
+Florida,Union,2020-11-30,90
+Florida,Volusia,2020-11-30,3579
+Florida,Wakulla,2020-11-30,291
+Florida,Walton,2020-11-30,1194
+Florida,Washington,2020-11-30,277
