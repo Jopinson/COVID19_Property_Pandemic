@@ -1,79 +1,27 @@
-## The data tables for holding raw data for housing prices
-## from 2018 to 2020 and COVID data from 2020.
-## Also contains the table to hold cities within 
-## a State and County.
+## The data table for holding processed data for housing prices from 1996 to 2020
+## for states of FL and CA
 
-
-County_City as cc
+housing_cleaned_data 
 -
-City PK String
-State String
-County String
+region_name varchar(100)
+state_name varchar(100)
+date timestamp
+avg_price int
 
-House_Prices_2018 as hp18
+## The data table for city and county mapping 
+## for states of FL and CA
+city_county_mapping
 -
-State PK string fk - cc.State
-Metro_Region PK string fk - cc.City
-County PK string fk - cc.County
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Sep
-Oct
-Nov
-Dec
+city varchar(100)
+state_id varchar(2)
+state_name varchar(30)
+county_name varchar(100)
 
-House_Prices_2019 as hp19
+## The data table for holding COVID processed for states of FL and CA
+covid_cleaned
 -
-State PK string fk - cc.State
-Metro_Region PK string fk - cc.City
-County PK string fk - cc.County
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Sep
-Oct
-Nov
-Dec
+State varchar(30)
+County varchar(100)
+Date timestamp
+Covid_Cummulative_Numbers int
 
-House_Prices_2020 as hp20
--
-State PK string fk - cc.State
-Metro_Region PK string fk - cc.City
-County PK string fk - cc.County
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Sep
-Oct
-
-
-COVID_2020
--
-State PK string fk - cc.State
-County PK string fk - cc.County
-Jan
-Feb
-Mar
-Apr
-May
-Jun
-Jul
-Aug
-Sep
-Oct
