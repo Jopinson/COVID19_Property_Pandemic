@@ -3,8 +3,7 @@
 ## SEGMENT 2 Deliverables
 
 ### Presentation
-The presentation currently is being worked on Microsoft pptx that can be found [here](reports/PresentationSlides%202.0.pptx).<br>
-We will convert this pptx into Google Slides in Segment 3.
+The presentation currently is being worked on in [GoogleSlides](https://docs.google.com/presentation/d/1LOd4DVS-7EgPJrmVBYNyDwg0x_EM48Xhtd77qu3fqFc/edit?usp=sharing)
 
 ### Machine Learning
 The dataset that we had for housing data contained only dates and average housing prices from 1996-2020 for regions across USA. Since, the goal was to predict the 2020 housing prices and compare the predicted price with actual price we went with UniVariate Linear Regression model. <br>
@@ -36,7 +35,7 @@ We are attempting to create a machine learning model that can predict housing pr
 
 ### Communication Protocols 
 - Private Slack Channel
-- Google Slides
+- [Google Slides](https://docs.google.com/presentation/d/1LOd4DVS-7EgPJrmVBYNyDwg0x_EM48Xhtd77qu3fqFc/edit?usp=sharing)
 - Group Meetings on Tuesdays, Thursdays, and Sundays for progress checks
 - Github Projects
 - Github Issues
