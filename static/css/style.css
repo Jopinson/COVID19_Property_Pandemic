@@ -4,7 +4,10 @@ body {
   }
 
   .jumbotron {
-    background-image: url("../images/pic1.jpg");
+    background-image: url("../images/pic2.PNG");
     background-size: 100% 100%;
+    color: #000000;
+    font-weight: bold;
     text-align: center;
   }
+
