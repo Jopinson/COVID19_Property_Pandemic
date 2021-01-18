@@ -4,21 +4,26 @@
 [Link to Github Pages](https://jopinson.github.io/COVID19_Property_Pandemic/)<br>
 [Link to Google Slides](https://docs.google.com/presentation/d/1LOd4DVS-7EgPJrmVBYNyDwg0x_EM48Xhtd77qu3fqFc/edit#slide=id.p1)<br>
 ## Table of Contents
-[Overview](#overview) <br>
+[Executive Summary](#executive-summary) <br>
 [Tools and Technologies](#tools-and-technologies)<br>
 [Data](#data) <br>
-[Data Observations](#data-observations)<br>
+[Exploratory Data Analysis](#exploratory-data-analysis)<br>
 [Machine Learning Model](#machine-learning-model) <br>
 [Installation](#installation)<br>
 [Folder Structure](#folder-structure)<br>
 [Team](#team)<br><br>
 
-## Overview
+## Executive Summary
 After the housing market crash of 2007-2008, the house prices in the last decade rose steadily. And then came 2020. As the COVID-19 cases started spiking in late March, the local and state governments started lockdowns to control the spread of virus. <br>
-With the businesses closed, there was a wide spread fear of another recession. But surprisingly the housing market wasn't affected much. <br>
-So as part of this project we wanted to analyze if COVID-19 had any impact on house prices. To limit the scope of the project, we decided to look at **California** and **Florida** markets as these states reported highest number of COVID cases.
-<br><br>
-***One to two line summary of the analysis results***<br><br>
+With the businesses closed, there was a wide spread fear of another recession. So as part of this project we set out to answer following questions:<br>
+1. Did Covid-19 cause prices to go up or down?
+2. Did the amount of cases in the area affect the prices?
+3. Were there any unusual trends in the data leading up to 2020?
+
+To limit the scope of the project, we considered data from California and Florida states representing East and West Coast of United States. 
+
+***Summary of Analysis to be added here***
+
 [back to ToC](#table-of-contents)
 ## Tools and Technologies
 **Pandas**<br>
@@ -52,7 +57,7 @@ The raw housing data file contained aggregated housing prices by month of each M
 [city-county-mapping](notebooks/ETL/ETL_City_County_Map.ipynb):<br>As part of ETL process for city county mapping, the unnecessary columns were removed from [uscities.csv](data/raw/uscities.csv).
 
 [back to ToC](#table-of-contents)<br>
-## Data Observations
+## Exploratory Data Analysis
 
 Based on the below visualizations, following observations can be made:<br>
 1. Los Angeles has the highest number of cases in CA. Santa Clara had the second highest cases in March but the spread was controlled slowly over following months.
@@ -72,10 +77,14 @@ Top 10 Counties in Florida with highest COVID cases <br>
 <br>
 
 **Average house prices from 2010 - 2020 in Los Angeles and Santa Clara (San Jose region) counties in California**<br>
-![](images/Los%20Angeles-Long%20Beach-Anaheim_avg_price.png)  ![](images/San%20Jose_avg_price.png)<br>
+Los Angeles | San Jose
+--- | ---
+![](images/Los%20Angeles-Long%20Beach-Anaheim_avg_price.png) | ![](images/San%20Jose_avg_price.png)<br>
 
 **Average house prices from 2010 - 2020 in Miami-Dade and Polk (Lakeland region) counties in Florida**<br>
-![](images/Miami-Fort%20Lauderdale_avg_price.png)  ![](images/Lakeland_avg_price.png)<br>
+Miami - Fort Lauderdale | Lakeland
+--- | ---
+![](images/Miami-Fort%20Lauderdale_avg_price.png) | ![](images/Lakeland_avg_price.png)<br>
 
 
 
@@ -84,17 +93,27 @@ Top 10 Counties in Florida with highest COVID cases <br>
 ## Machine Learning Model
 The dataset that we had for housing data contained only dates and average housing prices from 1996-2020 for regions across USA. Since, the goal was to predict the 2020 housing prices and compare the predicted price with actual price we went with UniVariate Linear Regression model. <br>
 The feature of our model is the Monthly dates and the target is average house prices. <br>
-The machine learning model notebook can be found [here](notebooks/modeling/Covid-Housing-ML.ipynb). <br>
-This file right now contains model and prediction for Los Angeles area. We are planning to create similar models for San Jose, CA; Lakeland, FL and Miami, FL.<br>
-More details on machine learning is documented in the presentation slides.
-
-### Choice of model and metrics
-
+We are using R2 score as the goodness-of-fit measure for our Linear Regression model.<br>
+We are also obtaining MAE, MSE and RMSE values for Predicted House Prices for 2020. RMSE values can be used to compare future models against the current model.<br>
+<br>
+The machine learning model notebook can be found [here](notebooks/modeling/Covid-Housing-ML_Combined.ipynb). <br>
 ### Data Preprocessing
+As part of Data Preprocessing, following steps were performed for each region:
+1. The Training Data was built by filtering dates between 1/1/2010 and 12/31/2019 
+2. The SkLearn train_test_split method was used to split the training data into train and test sets.
+3. The 2020 house prices are separated into a different dataset. This will be used for Predicting the 2020 Housing prices and then comparing with actual house prices.
+4. The Date feature was converted to Ordinal values to feed into the model.
 
 ### Predictive analysis and visualization
+**Model Metrics**
+![](images/model_metrics.png)<br><br>
 
-
+**Actual Vs Predicted Pricses of Selected Regions in California and Florida**<br>
+![](images/Los%20Angeles-Long%20Beach-Anaheim_2020_act_pred.png)<br>
+![](images/San%20Jose_2020_act_pred.png)<br>
+![](images/Miami-Fort%20Lauderdale_2020_act_pred.png)<br>
+![](images/Lakeland_2020_act_pred.png)<br>
+<br>
 
 
 [back to ToC](#table-of-contents)<br>
