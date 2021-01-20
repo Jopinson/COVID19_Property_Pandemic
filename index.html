@@ -22,18 +22,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
   
-  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
-    <i class="fa fa-user w3-xxlarge"></i>
-    <p>COVID DASHBOARD</p>
-  </a>
   <a href="#housing" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-home w3-xxlarge"></i>
-    <p>HOUSING DASHBOARD</p>
+    <p>DATA DASHBOARD</p>
   </a>
-  <a href="#ml" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
-    <i class="fa fa-eye w3-xxlarge"></i>
-    <p>MACHINE LEARNING DASHBOARD</p>
-  </a>
+  
   <a href="#predictions" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
     <i class="fa fa-search w3-xxlarge"></i>
     <p>PREDICTIONS</p>
@@ -43,9 +36,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
   <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
-    <a href="#" class="w3-bar-item w3-button" style="width:25% !important">COVID</a>
     <a href="#housing" class="w3-bar-item w3-button" style="width:25% !important">HOUSING</a>
-    <a href="#ml" class="w3-bar-item w3-button" style="width:25% !important">MACHINE LEARNING</a>
     <a href="#predictions" class="w3-bar-item w3-button" style="width:25% !important">PREDICTIONS</a>
   </div>
 </div>
@@ -58,64 +49,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Dashboards</p>
   </header>
 
-<!-- COVID DASHBOARD-->
-  <p>With a large number of counties/regions in each state, we decided to compare counties with higher rates of COVID19 cases to counties with lower rates to further understand the impact COVID19 has had on real estate sales.</p>
-    <div class='tableauPlaceholder' id='viz1610557859314' style='position: relative'>
-        <noscript>
-            <a href='#'>
-                <img alt=' ' 
-                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID19CAFLByCounty&#47;Dashboard1&#47;1_rss.png' style='border: none' />
-            </a>
-        </noscript>
-        <object class='tableauViz'  style='display:none;'>
-            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-            <param name='embed_code_version' value='3' /> 
-            <param name='site_root' value='' />
-            <param name='name' value='COVID19CAFLByCounty&#47;Dashboard1' />
-            <param name='tabs' value='no' />
-            <param name='toolbar' value='yes' />
-            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID19CAFLByCounty&#47;Dashboard1&#47;1.png' /> 
-            <param name='animate_transition' value='yes' />
-            <param name='display_static_image' value='yes' />
-            <param name='display_spinner' value='yes' />
-            <param name='display_overlay' value='yes' />
-            <param name='display_count' value='yes' />
-            <param name='language' value='en' />
-        </object>
-    </div>                
-    
-    <script type='text/javascript'>                    
-        var divElement = document.getElementById('viz1610557859314');                    
-        var vizElement = divElement.getElementsByTagName('object')[0];                    
-        if ( divElement.offsetWidth > 800 ) { 
-            vizElement.style.minWidth='420px';
-            vizElement.style.maxWidth='650px';
-            vizElement.style.width='100%';
-            vizElement.style.minHeight='587px';
-            vizElement.style.maxHeight='887px';
-            vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-        } else if ( divElement.offsetWidth > 500 ) { 
-            vizElement.style.minWidth='420px';
-            vizElement.style.maxWidth='650px';
-            vizElement.style.width='100%';
-            vizElement.style.minHeight='587px';
-            vizElement.style.maxHeight='887px';
-            vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-        } else { 
-            vizElement.style.minWidth='420px';
-            vizElement.style.maxWidth='650px';
-            vizElement.style.width='100%';
-            vizElement.style.minHeight='587px';
-            vizElement.style.maxHeight='887px';
-            vizElement.style.height=(divElement.offsetWidth*1.77)+'px';}                     
-        var scriptElement = document.createElement('script');                    
-        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-    </script>
 
   <!-- Housing Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="housing">
-    <h2 class="w3-text-light-grey">HOUSING DASHBOARD</h2>
+    <h2 class="w3-text-light-grey">DATA DASHBOARD</h2>
     <hr style="width:200px" class="w3-opacity">
     
     <!-- HOUSING DASHBOARD-->
@@ -173,62 +110,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </script>
 
   <!-- ML Section -->
-  <div class="w3-padding-64 w3-content" id="ml">
-    <h2 class="w3-text-light-grey">Machine Learning</h2>
-    <hr style="width:200px" class="w3-opacity">
-
-    <!-- Grid for photos -->
-    <div class='tableauPlaceholder' id='viz1611008985906' style='position: relative'>
-        <noscript>
-          <a href='#ml'>
-              <img alt=' ' 
-              src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealEstateMachineLearning2020&#47;2020RealEstatePredictions&#47;1_rss.png' style='border: none' />
-          </a>
-       </noscript>
-       <object class='tableauViz'  style='display:none;'>
-           <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-           <param name='embed_code_version' value='3' /> 
-           <param name='site_root' value='' />
-           <param name='name' value='RealEstateMachineLearning2020&#47;2020RealEstatePredictions' />
-           <param name='tabs' value='no' />
-           <param name='toolbar' value='yes' />
-           <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RealEstateMachineLearning2020&#47;2020RealEstatePredictions&#47;1.png' /> 
-           <param name='animate_transition' value='yes' />
-           <param name='display_static_image' value='yes' />
-           <param name='display_spinner' value='yes' />
-           <param name='display_overlay' value='yes' />
-           <param name='display_count' value='yes' />
-           <param name='language' value='en' />
-           <param name='filter' value='publish=yes' />
-        </object>
-    </div> 
-                   
-    <script type='text/javascript'>                   
-    var divElement = document.getElementById('viz1611008985906');                    
-    var vizElement = divElement.getElementsByTagName('object')[0];                    
-    if ( divElement.offsetWidth > 800 ) { 
-         vizElement.style.width='100%';
-         vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-    } else if ( divElement.offsetWidth > 500 ) { 
-              vizElement.style.minWidth='420px';
-              vizElement.style.maxWidth='650px';
-              vizElement.style.width='100%';
-              vizElement.style.minHeight='587px';
-              vizElement.style.maxHeight='887px';
-              vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-    } else { 
-              vizElement.style.width='100%';
-              vizElement.style.height='1177px';}                     
-    var scriptElement = document.createElement('script');                    
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-    </script>
-  <!-- End ML Section -->
-  </div>
-
+  
   <!-- Predictions Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="predictions">
-    <h2 class="w3-text-light-grey">Predictions</h2>
+    <h2 class="w3-text-light-grey">Predictions Dashboard</h2>
     <hr style="width:200px" class="w3-opacity">
 
    
