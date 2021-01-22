@@ -20,8 +20,6 @@ With the businesses closed, there was a wide spread fear of another recession. S
 2. Did the amount of cases in the area affect the prices?
 3. Were there any unusual trends in the data leading up to 2020?
 
-To limit the scope of the project, we considered data from California and Florida states representing East and West Coast of United States. 
-
 <br>
 To limit the scope of the project, we considered data from California and Florida states representing East and West Coast of United States. 
 <br><br>
