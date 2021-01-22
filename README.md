@@ -22,7 +22,13 @@ With the businesses closed, there was a wide spread fear of another recession. S
 
 To limit the scope of the project, we considered data from California and Florida states representing East and West Coast of United States. 
 
-***Summary of Analysis to be added here***
+<br>
+To limit the scope of the project, we considered data from California and Florida states representing East and West Coast of United States. 
+<br><br>
+We decided to go with Linear Regression model as we saw a linear trend in the data set. The model produced R2 score (coefficient of determination) between 0.85 to .95 for the 4 regions we chose. Using the model we predicted the housing prices from January 2020 to Novemeber 2020 and we realized that:
+
+1. COVID-19 didn't really impact the house prices much in the regions we chose. The predicted house prices tracked very closely to the actual house prices.
+2. The concentration of COVID cases didn't have impact on housing prices. Whether a region had highest number of COVID cases or moderate number of COVID cases, the house prices tracked very closely to the predicted prices from Pre-COVID.
 
 [back to ToC](#table-of-contents)
 ## Tools and Technologies
